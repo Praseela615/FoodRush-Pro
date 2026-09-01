@@ -2,32 +2,32 @@ export const categories = [
   {
     name: "Pizza",
     icon: "🍕",
-    img: "/images/pizza.jpg"
+    img: `${import.meta.env.BASE_URL}images/pizza.jpg`
   },
   {
     name: "Burgers",
     icon: "🍔",
-    img: "/images/burger.jpg"
+    img: `${import.meta.env.BASE_URL}images/burger.jpg`
   },
   {
     name: "Fast Food",
     icon: "🍟",
-    img: "/images/fastfood.jpg"
+    img: `${import.meta.env.BASE_URL}images/fastfood.jpg`
   },
   {
     name: "Desserts",
     icon: "🍰",
-    img: "/images/desserts.jpg"
+    img: `${import.meta.env.BASE_URL}images/desserts.jpg`
   },
   {
     name: "Beverages",
     icon: "🥤",
-    img: "/images/beverages.jpg"
+    img: `${import.meta.env.BASE_URL}images/beverages.jpg`
   },
   {
     name: "Healthy Meals",
     icon: "🥗",
-    img: "/images/healthy.jpg"
+    img: `${import.meta.env.BASE_URL}images/healthy.jpg`
   }
 ];
 
