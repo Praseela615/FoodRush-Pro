@@ -1,6 +1,34 @@
-export const categories=[
- {name:"Pizza",icon:"🍕"},{name:"Burgers",icon:"🍔"},{name:"Fast Food",icon:"🍟"},
- {name:"Desserts",icon:"🍰"},{name:"Beverages",icon:"🥤"},{name:"Healthy Meals",icon:"🥗"}
+export const categories = [
+  {
+    name: "Pizza",
+    icon: "🍕",
+    img: "/images/pizza.jpg"
+  },
+  {
+    name: "Burgers",
+    icon: "🍔",
+    img: "/images/burger.jpg"
+  },
+  {
+    name: "Fast Food",
+    icon: "🍟",
+    img: "/images/fastfood.jpg"
+  },
+  {
+    name: "Desserts",
+    icon: "🍰",
+    img: "/images/desserts.jpg"
+  },
+  {
+    name: "Beverages",
+    icon: "🥤",
+    img: "/images/beverages.jpg"
+  },
+  {
+    name: "Healthy Meals",
+    icon: "🥗",
+    img: "/images/healthy.jpg"
+  }
 ];
 
 export const restaurants=[
