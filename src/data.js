@@ -2,32 +2,32 @@ export const categories = [
   {
     name: "Pizza",
     icon: "🍕",
-    img: `${import.meta.env.BASE_URL}images/pizza.jpg`
+    img: "/FoodRush-Pro/images/pizza.jpg"
   },
   {
     name: "Burgers",
     icon: "🍔",
-    img: `${import.meta.env.BASE_URL}images/burger.jpg`
+    img: "/FoodRush-Pro/images/burger.jpg"
   },
   {
     name: "Fast Food",
     icon: "🍟",
-    img: `${import.meta.env.BASE_URL}images/fastfood.jpg`
+    img: "/FoodRush-Pro/images/fastfood.jpg"
   },
   {
     name: "Desserts",
     icon: "🍰",
-    img: `${import.meta.env.BASE_URL}images/desserts.jpg`
+    img: "/FoodRush-Pro/images/desserts.jpg"
   },
   {
     name: "Beverages",
     icon: "🥤",
-    img: `${import.meta.env.BASE_URL}images/beverages.jpg`
+    img: "/FoodRush-Pro/images/beverages.jpg"
   },
   {
     name: "Healthy Meals",
     icon: "🥗",
-    img: `${import.meta.env.BASE_URL}images/healthy.jpg`
+    img: "/FoodRush-Pro/images/healthy.jpg"
   }
 ];
 
